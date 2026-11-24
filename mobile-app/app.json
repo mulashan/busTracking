@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "School Bus Tracking",
+    "slug": "school-bus-tracking",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0f766e"
+      }
+    }
+  }
+}
